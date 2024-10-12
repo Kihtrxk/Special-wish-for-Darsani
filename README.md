@@ -1,5 +1,4 @@
-# Special-wish-for-Darsanibody 
-{
+body {
     font-family: 'Arial', sans-serif;
     background-color: #f3f4f6;
     display: flex;
